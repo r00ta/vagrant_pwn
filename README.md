@@ -10,6 +10,7 @@
 - pwntool
 - binwalk
 - Firmware-Mod-Kit
+- pin and pintool.py
 
 #Install
 ```
