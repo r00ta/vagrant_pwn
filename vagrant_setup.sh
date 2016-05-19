@@ -99,8 +99,6 @@ echo "source ~/peda/peda.py" >> ~/.gdbinit
 cd /home/vagrant/tools
 git clone https://github.com/Z3Prover/z3
 cd z3
-virtualenv venv
-source venv/bin/activate
 python scripts/mk_make.py --python
 cd build
 make
